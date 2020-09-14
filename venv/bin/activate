@@ -46,7 +46,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV='/home/ananda/VScode Project/AutomateTheBoringStuff/venv'
+VIRTUAL_ENV='/home/ananda/VScode_projects/AutomateTheBoringStuff/venv'
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

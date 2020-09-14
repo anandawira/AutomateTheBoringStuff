@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' "/home/ananda/VScode Project/AutomateTheBoringStuff/venv/bin/python" "$0" "$@"
-' '''
+#!/home/ananda/VScode_projects/AutomateTheBoringStuff/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
